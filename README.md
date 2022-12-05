@@ -6,6 +6,6 @@ Hertz [həːts] is a high-usability, high-performance and high-extensibility Gol
 
 ## Versioning and license
 
-Our version numbers follow the [semantic versioning specification](http://semver.org/). You can see the available versions by checking the [tags on this repository](https://github.com/thiagozs/go-slack/tags). For more details about our license model, please take a look at the [LICENSE](LICENSE) file.
+Our version numbers follow the [semantic versioning specification](http://semver.org/). You can see the available versions by checking the [tags on this repository](https://github.com/thiagozs/go-hertz-examples/tags). For more details about our license model, please take a look at the [LICENSE](LICENSE) file.
 
 **2022**, thiagozs.
